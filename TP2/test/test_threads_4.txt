@@ -1,0 +1,7 @@
+number of threads 4
+Full matrix multiplication vector 		  6639196 cycles
+Triangular Matrix multiplication vector		  3353441 cycles
+Parallel Loop Static Scheduling 		  2080999 cycles
+Parallel Loop Dynamic Scheduling 		  1007196 cycles
+Parallel Loop Guided Scheduling 		  990590 cycles
+Parallel Loop Runtime Scheduling 		  1006042 cycles
